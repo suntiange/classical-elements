@@ -23,4 +23,9 @@
     <title>Aether symbol</title>
     <path d="M125,0A125,125,0,1,0,250,125,125,125,0,0,0,125,0Zm0,235c-52.47,0-95-49.25-95-110S72.53,15,125,15s95,49.25,95,110S177.47,235,125,235Z" />
   </symbol>
+
+  <symbol id="dark_matter" viewBox="0 0 250 250.09">
+    <title>Dark matter symbol</title>
+    <ellipse cx="124" cy="125.05" rx="124" ry="125.05"/>
+  </symbol>
 </svg>
