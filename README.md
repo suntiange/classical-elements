@@ -6,3 +6,4 @@ An SVG icon system of classical elements
 * Fire
 * Water
 * Æther
+* Dark Matter
